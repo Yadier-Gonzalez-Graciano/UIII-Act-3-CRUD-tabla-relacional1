@@ -1,6 +1,6 @@
 # UIII-Act-3-CRUD-tabla-relacional1
 Tablas productos, proveedor y sucursal
-![image](https://github.com/Yadier-Gonzalez-Graciano/UIII-Act-3-CRUD-tabla-relacional1/assets/143548098/57459a57-487e-46d4-9745-a3638ac814b2)
+(![image](https://github.com/Yadier-Gonzalez-Graciano/UIII-Act-3-CRUD-tabla-relacional1/assets/143548098/57459a57-487e-46d4-9745-a3638ac814b2))
 ![image](https://github.com/Yadier-Gonzalez-Graciano/UIII-Act-3-CRUD-tabla-relacional1/assets/143548098/b1db0fd3-c285-4b3a-8a08-1f3e70f67f12)
 ![image](https://github.com/Yadier-Gonzalez-Graciano/UIII-Act-3-CRUD-tabla-relacional1/assets/143548098/75aed7a0-e99d-4f83-8e25-f6bf7d0ee4e6)
 
